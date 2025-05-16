@@ -7,7 +7,7 @@
 - Mahmud Mardanli
  
 ##  Description
-This project implements the Bubble Sort algorithm in Java. It reads input from the user, sorts the array, and prints the result.
+This project implements the Bubble Sort algorithm in Java. It reads input from the user, sorts the array, and prints, the result.
  
 ##  Files
 - `BubbleSort.java` – Main implementation file
